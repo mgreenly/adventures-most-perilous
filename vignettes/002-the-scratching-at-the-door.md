@@ -28,7 +28,7 @@ The boy had been eager then. He was less eager now, with the rain soaking throug
 
 Word traveled faster than horses. By the time they reached the village edge, the sheriff was there to meet them.
 
-He was a thick man, run to fat, with a face that spoke of too much ale and not enough courage. His hands would not stay still. When Sir Bram dismounted and approached, the sheriff took a step backward before catching himself.
+He was a heavy man, ale-flushed and soft, with the look of someone who had never had to be brave. His hands would not stay still. When Sir Bram dismounted and approached, the sheriff took a step backward before catching himself.
 
 "You came," he said. "Thank the saints, you came. There's food and beds at the inn, you'll want to rest after—"
 
@@ -38,7 +38,7 @@ The sheriff's face went pale, but he nodded.
 
 "Tell me what you know as we walk," Sir Bram said. His voice was calm, unhurried. Willem had heard that voice many times - it was the voice Sir Bram used when others were frightened, a steady current against their panic.
 
-The sheriff spoke quickly, his words tumbling. The graveyard had been undisturbed for generations. But three weeks ago, a section of earth had collapsed near the old crypt - the one from before, he said, from the old times, when they buried their dead differently. A hole had opened. The gravedigger stayed late into the evening, finishing a burial. Come morning, they found what was left of him scattered near the hole.
+The sheriff spoke quickly, his words tumbling. The graveyard had been undisturbed for generations. But three weeks ago, a sinkhole had opened near the old crypt, the one from the old times, from when they buried their dead differently. A hole had opened. The gravedigger stayed late into the evening, finishing a burial. Come morning, they found what was left of him scattered near the hole.
 
 "And the others?" Sir Bram asked.
 
