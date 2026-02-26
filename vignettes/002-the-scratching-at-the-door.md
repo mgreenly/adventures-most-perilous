@@ -22,7 +22,7 @@ A ghoul, the message said. Send help.
 
 Sir Bram had answered, as he always answered. He had brought the squire Jorin, who needed the experience before his final trials. And he had brought the boy Willem, because a torchbearer's place was with his knight, and because - as Sir Bram had said with a hand on the boy's shoulder - there was no better way to learn whether one had the calling than to see the work done.
 
-The boy had been eager then. He was less eager now, with the rain soaking through his hood and the hamlet emerging from the mist like something half-remembered from a fever dream.
+The boy had been eager then. He was less eager now, with the rain soaking through his hood and the hamlet emerging from the mist.
 
 ---
 
