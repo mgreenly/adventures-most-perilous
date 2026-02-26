@@ -60,9 +60,9 @@ Willem stood at the edge and looked down. His torch - lit now, the flame hissing
 
 "You hoped it would leave you alone in return," Sir Bram said. There was no judgment in his voice, only understanding. "That is not how such things work. Evil that finds a home will make itself comfortable. It will grow hungry. It will want more."
 
-He turned to Willem. "Light another torch. Give it to Jorin. You will carry the third. Stay behind us, and keep the flames high. Such creatures hate the light; it will not stop them, but it may slow them."
+He turned to Willem. "Light two more torches. Give one to Jorin, one to me. Stay behind us, and keep your flame high. Such creatures hate the light; it will not stop them, but it may slow them."
 
-Willem's hands trembled as he unwrapped a fresh torch and touched it to his own. The pitch caught, the flame rose, and he handed it to Jorin.
+Willem's hands trembled as he unwrapped two fresh torches and touched them to his own. The pitch caught, the flames rose, and he handed one to Jorin, one to Sir Bram.
 
 Sir Bram drew his sword. The blade caught the torchlight and held it.
 
