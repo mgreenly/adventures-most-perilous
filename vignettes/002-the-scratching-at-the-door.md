@@ -2,8 +2,6 @@
 
 *As told to B.B. Beauchamp by Sir Willem, Breaker of the Dark Host*
 
-*Published in the Solmara Gazette, Autumn, Eighth Year of King Edmund's Reign*
-
 ---
 
 Sir Willem, Breaker of the Dark Host, is not a man given to sentiment. So when his voice trembled in the telling of what I shall now relate, I confess my quill faltered more than once.
@@ -280,3 +278,5 @@ Sir Bram raised his sword and charged to meet them.
 
 B.B. Beauchamp
 *Adventures Most Perilous*
+
+*Published in the Solmara Gazette, Autumn, Eighth Year of King Edmund's Reign*
