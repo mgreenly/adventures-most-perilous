@@ -16,7 +16,7 @@ It was not the honest rain of summer storms, the kind that announces itself and 
 
 The boy Willem walked behind the horses, as was his place. Sir Bram rode at the front, his cloak pulled tight, the lantern-and-star of Saint Aldara barely visible beneath the wet wool. The squire Jorin rode behind him, seventeen and broad-shouldered, close to earning his spurs. The boy carried the unlit torches wrapped in oilcloth, the flint and steel, and a small pack of supplies. His boots squelched in the mud of what the locals generously called a road.
 
-They had been summoned three days prior. A message had reached the Chapel of Saint Aldara in Thornwick - a hamlet near Dunmorrow was troubled. Something had been seen in the old graveyard. Livestock found torn apart, drained of blood, the wounds unlike any animal attack. And then the first body: a gravedigger who had stayed late into the evening, found the next morning in pieces.
+They had been summoned three days prior. A message had reached the Chapel of Saint Aldara in Thornwick - a hamlet near Dunmorrow was troubled. Something had been seen in the old graveyard. Livestock found torn apart, drained of blood, the wounds unlike any animal attack. And then the first body: a gravedigger who had stayed too late into the evening, found the next morning in pieces.
 
 A ghoul, the message said. Send help.
 
