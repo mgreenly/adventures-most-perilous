@@ -210,7 +210,7 @@ The light did not come from his torch.
 
 It came from everywhere.
 
-Willem did not see the angel arrive - one moment the room held only shadow and torchlight, and the next it was filled with a radiance that had no source, a warmth that pressed against his skin like summer sun. He shielded his eyes, but even through his fingers, he could see.
+One moment the room held only shadow and torchlight. The next it was filled with a radiance that had no source, a warmth that pressed against his skin like summer sun. He shielded his eyes, but even through his fingers, he could see.
 
 She stood above Sir Bram's fallen form - a figure wrought of light, wings folded at her back, her face terrible and beautiful beyond any mortal measure. She wore armor of gold that did not gleam but glowed, as if the metal itself were flame made solid. In her hand she held a lantern, and within that lantern burned a fire that cast no shadow.
 
