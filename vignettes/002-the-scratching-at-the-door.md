@@ -82,7 +82,7 @@ Willem understood this the moment his feet touched the floor below. The walls we
 
 "These are not recent," Jorin murmured. "A hundred years? Two hundred?"
 
-"More," Sir Bram said. "These are from before the One God and the Lantern. Before Saint Aldara brought her light to these shores. The people here buried their dead in the old way, beneath the earth, close to whatever gods they worshipped then."
+"More," Sir Bram said. "These are from before the One God and the Lantern. Before Saint Aldara brought her light to these shores. The people here buried their dead in the old way, close to whatever gods they worshipped then."
 
 He moved forward, sword raised, his torch casting long shadows. Willem followed, trying to watch everywhere at once. The passage branched ahead - one way left, one way right, both disappearing into darkness beyond the reach of their flames.
 
