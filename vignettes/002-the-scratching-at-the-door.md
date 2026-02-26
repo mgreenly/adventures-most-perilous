@@ -38,7 +38,7 @@ The sheriff's face went pale, but he nodded.
 
 "Tell me what you know as we walk," Sir Bram said. His voice was calm, unhurried. Willem had heard that voice many times - it was the voice Sir Bram used when others were frightened, a steady current against their panic.
 
-The sheriff spoke quickly, his words tumbling. The graveyard had been undisturbed for generations. But three weeks ago, a sinkhole had opened near the old crypt, the one from the old times, from when they buried their dead differently. A hole had opened. The gravedigger stayed late into the evening, finishing a burial. Come morning, they found what was left of him scattered near the hole.
+The sheriff spoke quickly, his words tumbling. The graveyard had been undisturbed for generations. But three weeks ago, a sinkhole had opened near the old crypt, the crypt from the old times, from when they buried their dead differently. The gravedigger stayed too late into the evening, finishing a burial. Come morning, they found what was left of him scattered near the hole.
 
 "And the others?" Sir Bram asked.
 
@@ -48,7 +48,7 @@ Sir Bram nodded slowly. "Show me the hole."
 
 ---
 
-The crypt was old - older than the wooden church that stood nearby, older perhaps than the hamlet itself. The stones were worn smooth, the carvings eroded beyond recognition. The iron gate that had once sealed its entrance hung open, rusted through.
+The crypt was old - older than the wooden church that stood nearby, older perhaps than the hamlet itself. The crypt's masonry was ancient, its stones worn smooth, its carvings eroded beyond recognition. The iron gate that had once sealed the entrance hung open, rusted through.
 
 Beyond the gate, stairs descended into darkness. And at the bottom of those stairs, the floor had given way. A hole, perhaps five feet across, opened into nothing.
 
