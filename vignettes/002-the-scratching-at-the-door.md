@@ -1,6 +1,7 @@
 # The Scratching at the Door
 
 *As told to B.B. Beauchamp by Sir Willem, Breaker of the Dark Host*
+
 *Published in the Solmara Gazette, Autumn, Eighth Year of King Edmund's Reign*
 
 ---
