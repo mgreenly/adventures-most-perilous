@@ -12,15 +12,15 @@ He received me in the chapel where he keeps his vigil - an old man now, his hair
 
 The rain had not stopped for three days.
 
-It was not the honest rain of summer storms, the kind that announces itself and passes. This was the rain of the northern coast in late autumn - a grey mist that hung in the air and seeped through wool and leather until the cold lived in your bones. The sky offered no sun, no shadows, no sense of time. Only the slow fade from dim grey to darker grey told Willem that evening approached.
+It was not the honest rain of summer storms, the kind that announces itself and passes. This was the rain of the northern coast in late autumn: a grey mist that hung in the air and seeped through wool and leather until the cold lived in your bones. The sky offered no sun, no shadows, no sense of time. Only the slow fade from dim grey to darker grey told Willem that evening approached.
 
-The boy Willem walked behind the horses, as was his place. Sir Bram rode at the front, his cloak pulled tight, the lantern-and-star of Saint Aldara barely visible beneath the wet wool. The squire Jorin rode behind him - seventeen and broad-shouldered, close to earning his spurs. The boy carried the unlit torches wrapped in oilcloth, the flint and steel, and a small pack of supplies. His boots squelched in the mud of what the locals generously called a road.
+The boy Willem walked behind the horses, as was his place. Sir Bram rode at the front, his cloak pulled tight, the lantern-and-star of Saint Aldara barely visible beneath the wet wool. The squire Jorin rode behind him, seventeen and broad-shouldered, close to earning his spurs. The boy carried the unlit torches wrapped in oilcloth, the flint and steel, and a small pack of supplies. His boots squelched in the mud of what the locals generously called a road.
 
 They had been summoned three days prior. A message had reached the Chapel of Saint Aldara in Thornwick - a hamlet near Dunmorrow was troubled. Something had been seen in the old graveyard. Livestock found torn apart, drained of blood, the wounds unlike any animal attack. And then the first body: a gravedigger who had stayed late into the evening, found the next morning in pieces.
 
 A ghoul, the message said. Send help.
 
-Sir Bram had answered, as he always answered. He had brought the squire Jorin, who needed the experience before his final trials. And he had brought the boy Willem, because a torchbearer's place was with his knight, and because - as Sir Bram had said with a hand on the boy's shoulder - there was no better way to learn whether one had the calling than to see the work done.
+Sir Bram had answered, as he always answered. He had brought the squire Jorin, who needed the experience before his final trials. And he had brought the boy Willem, because a torchbearer's place was with his knight, and because (as Sir Bram had said with a hand on the boy's shoulder) there was no better way to learn whether one had the calling than to see the work done.
 
 The boy had been eager then. He was less eager now, with the rain soaking through his hood and the hamlet emerging from the mist.
 
@@ -60,7 +60,7 @@ Willem stood at the edge and looked down. His torch - lit now, the flame hissing
 
 "You hoped it would leave you alone in return," Sir Bram said. There was no judgment in his voice, only understanding. "That is not how such things work. Evil that finds a home will make itself comfortable. It will grow hungry. It will want more."
 
-He turned to Willem. "Light another torch. Give it to Jorin. You will carry the third. Stay behind us, and keep the flames high. Such creatures hate the light - it will not stop them, but it may slow them."
+He turned to Willem. "Light another torch. Give it to Jorin. You will carry the third. Stay behind us, and keep the flames high. Such creatures hate the light; it will not stop them, but it may slow them."
 
 Willem's hands trembled as he unwrapped a fresh torch and touched it to his own. The pitch caught, the flame rose, and he handed it to Jorin.
 
@@ -138,7 +138,7 @@ Willem saw it then - an iron door set into the wall of the passage, ancient and 
 
 But the ghouls were faster.
 
-Three of them hit Jorin at once. He went down beneath them, still holding his torch, still fighting. Willem saw claws tear through leather. Saw the squire's face twist in pain and rage. Heard him shout something - a name, perhaps, or a prayer. And then the ghouls bore him down into the darkness and the shouting stopped, replaced by sounds that Willem would hear in his dreams for the rest of his life.
+Three of them hit Jorin at once. He went down beneath them, still holding his torch, still fighting. Willem saw claws tear through leather. Saw the squire's face twist in pain and rage. Heard him shout something: a name, perhaps, or a prayer. And then the ghouls bore him down into the darkness and the shouting stopped, replaced by sounds that Willem would hear in his dreams for the rest of his life.
 
 Sir Bram grabbed Willem by the collar and hurled him through the door.
 
@@ -220,7 +220,7 @@ The angel looked at Willem. Her eyes were not eyes - they were depths, endless, 
 
 "Be not afraid," she said.
 
-Her voice was not one voice but many - a chorus speaking in perfect unity, each word resonating in Willem's chest like the deepest bell.
+Her voice was not one voice but many: a chorus speaking in perfect unity, each word resonating in Willem's chest like the deepest bell.
 
 "The Lantern does not abandon those who carry its flame into the darkness."
 
@@ -228,9 +228,9 @@ She knelt beside Sir Bram. A hand of light reached out and touched the knight's 
 
 Sir Bram's eyes opened.
 
-Color returned to his face. His arm straightened. The wounds across his back and shoulders closed, leaving only faint scars. He drew a breath - a real breath, deep and strong - and pushed himself upright.
+Color returned to his face. His arm straightened. The wounds across his back and shoulders closed, leaving only faint scars. He drew a breath, a real breath, deep and strong, and pushed himself upright.
 
-He looked at the angel, and Willem saw something pass between them - understanding, perhaps, or purpose.
+He looked at the angel, and Willem saw something pass between them: understanding, perhaps, or purpose.
 
 His hand found his sword.
 
@@ -262,7 +262,7 @@ Sir Bram raised his sword and charged to meet them.
 
 ---
 
-*What became of the ghouls beneath Dunmorrow, I shall save for another telling. Sir Bram and his young torchbearer emerged from those catacombs at dawn, bloody but alive, and the work that followed was the work of flame and consecrated earth. Of Jorin, the squire who fell in that terrible ambush, a marker was placed in the graveyard above - though his body was never recovered.*
+*What became of the ghouls beneath Dunmorrow, I shall save for another telling. Sir Bram and his young torchbearer emerged from those catacombs at dawn, bloody but alive, and the work that followed was the work of flame and consecrated earth. Of Jorin, the squire who fell in that terrible ambush, a marker was placed in the graveyard above, though his body was never recovered.*
 
 *But this tale was not about the ending. It was about the beginning.*
 
