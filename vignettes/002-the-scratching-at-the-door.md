@@ -264,7 +264,7 @@ Sir Bram raised his sword and charged to meet them.
 
 *What became of the ghouls beneath Dunmorrow, I shall save for another telling. Sir Bram and his young torchbearer emerged from those catacombs at dawn, bloody but alive, and the work that followed was the work of flame and consecrated earth. Of Jorin, the squire who fell in that terrible ambush, a marker was placed in the graveyard above, though his body was never recovered.*
 
-*But this tale was not about the ending. It was about the beginning.*
+*This tale was not about an ending, it was about a beginning.*
 
 *Sir Willem told me, as we sat in that chapel decades later, that he had doubted many things in his youth. His courage. His purpose. Whether the saints truly watched, or whether the prayers were merely words spoken into silence.*
 
