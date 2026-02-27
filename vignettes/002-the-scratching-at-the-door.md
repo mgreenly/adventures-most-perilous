@@ -40,7 +40,7 @@ The sheriff's face went pale, but he nodded.
 
 The sheriff spoke quickly, his words tumbling. The graveyard had been undisturbed for generations. But three weeks ago, the floor had given way inside the old crypt, the crypt from the old times, from when they buried their dead differently. The gravedigger stayed too late into the evening, finishing a burial. Come morning, they found what was left of him scattered near the hole.
 
-"And the others?" Sir Bram asked.
+"Has it killed again?" Sir Bram asked.
 
 "Two more since. A farmer's boy who took a shortcut through the graves after dark. A woman gathering herbs at the edge of the wood." The sheriff's voice dropped. "We found... parts of them. Not all."
 
