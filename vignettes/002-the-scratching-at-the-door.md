@@ -14,15 +14,15 @@ The rain had not stopped for three days.
 
 It was not the honest rain of summer storms, the kind that announces itself and passes. This was the rain of the northern coast in late autumn: a grey mist that hung in the air and seeped through wool and leather until the cold lived in your bones. The sky offered no sun, no shadows, no sense of time. Only the slow fade from dim grey to darker grey told Willem that evening approached.
 
-The boy Willem walked behind the horses, as was his place. Sir Bram rode at the front, his cloak pulled tight, the lantern-and-star of Saint Aldara barely visible beneath the wet wool. The squire Jorin rode behind him, seventeen and broad-shouldered, close to earning his spurs. The boy carried the unlit torches wrapped in oilcloth, the flint and steel, and a small pack of supplies. His boots squelched in the mud of what the locals generously called a road.
+Sir Bram rode at the front, his cloak pulled tight, the lantern-and-star of Saint Aldara barely visible beneath the wet wool. The squire Jorin rode behind him, seventeen and broad-shouldered, close to earning his spurs. Behind them, the boy Willem carried the unlit torches wrapped in oilcloth, the flint and steel, and a small pack of supplies. His boots squelched in the mud of what the locals generously called a road.
 
 They had been summoned three days prior. A message had reached the Chapel of Saint Aldara in Thornwick - a hamlet near Dunmorrow was troubled. Something had been seen in the old graveyard. Livestock found torn apart, drained of blood, the wounds unlike any animal attack. And then the first body: a gravedigger who had stayed too late into the evening, found the next morning in pieces.
 
 A ghoul, the message said. Send help.
 
-Sir Bram had answered, as he always answered. He had brought the squire Jorin, who needed the experience before his final trials. And he had brought the boy Willem, because a torchbearer's place was with his knight, and because (as Sir Bram had said with a hand on the boy's shoulder) there was no better way to learn whether one had the calling than to see the work done.
+Sir Bram had answered, as he always did. He had brought the squire Jorin, who needed the experience before his final trials. And he had brought the boy Willem, because a torchbearer's place was with his knight, and because (as Sir Bram had said with a hand on the boy's shoulder) there was no better way to learn whether one had the calling than to see the work done.
 
-The boy had been eager then. He was less eager now, with the rain soaking through his hood and the hamlet emerging from the mist.
+Willem had been eager then. He was less eager now, with the rain soaking through his hood and the hamlet emerging from the mist.
 
 ---
 
@@ -38,7 +38,7 @@ The sheriff's face went pale, but he nodded.
 
 "Tell me what you know as we walk," Sir Bram said. His voice was calm, unhurried. Willem had heard that voice many times - it was the voice Sir Bram used when others were frightened, a steady current against their panic.
 
-The sheriff spoke quickly, his words tumbling. The graveyard had been undisturbed for generations. But three weeks ago, the floor had given way inside the old crypt, the crypt from the old times, from when they buried their dead differently. The gravedigger stayed too late into the evening, finishing a burial. Come morning, they found what was left of him scattered near the hole.
+The sheriff spoke quickly. The graveyard had been undisturbed for generations. But three weeks ago, the floor had given way inside the old crypt, the crypt from the old times, from when they buried their dead differently. The gravedigger stayed too late into the evening, finishing a burial. Come morning, they found what was left of him scattered near the hole.
 
 "Has it killed again?" Sir Bram asked.
 
@@ -48,7 +48,7 @@ Sir Bram nodded slowly. "Show me the hole."
 
 ---
 
-The crypt was old - older than the wooden church that stood nearby, older perhaps than the hamlet itself. The crypt's masonry was ancient, its stones worn smooth, its carvings eroded beyond recognition. The iron gate that had once sealed the entrance hung open, rusted through.
+The crypt was old - older than the wooden church that stood nearby, older perhaps than the hamlet itself. Its masonry was ancient, its stones worn smooth, its carvings eroded beyond recognition. The iron gate that had once sealed the entrance hung open, rusted through.
 
 Beyond the gate, stairs descended into darkness. And at the bottom of those stairs, the floor had given way. A hole, perhaps five feet across, opened into nothing.
 
@@ -256,7 +256,7 @@ The knight looked down at Willem. His face was calm, the pain gone, only purpose
 
 Sir Bram turned to the door and drew back the bolt.
 
-The door swung open. The passage beyond was not empty. Eyes reflected the torchlight and the ghouls surged forward.
+The door swung open. Eyes reflected the torchlight and the ghouls surged forward.
 
 Sir Bram raised his sword and charged to meet them.
 
